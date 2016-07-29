@@ -7,9 +7,9 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/aws/aws-sdk-go/aws"
-	"github.com/aws/aws-sdk-go/aws/session"
-	"github.com/aws/aws-sdk-go/service/cognitoidentityprovider"
+	"github.com/catenoid-company/aws-sdk-go/aws"
+	"github.com/catenoid-company/aws-sdk-go/aws/session"
+	"github.com/catenoid-company/aws-sdk-go/service/cognitoidentityprovider"
 )
 
 var _ time.Duration

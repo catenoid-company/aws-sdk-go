@@ -2,9 +2,9 @@ package main
 
 import (
 	"fmt"
-	"github.com/aws/aws-sdk-go/aws"
-	"github.com/aws/aws-sdk-go/aws/session"
-	"github.com/aws/aws-sdk-go/service/ec2"
+	"github.com/catenoid-company/aws-sdk-go/aws"
+	"github.com/catenoid-company/aws-sdk-go/aws/session"
+	"github.com/catenoid-company/aws-sdk-go/service/ec2"
 	"log"
 	"os"
 	"strings"

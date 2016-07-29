@@ -3,9 +3,9 @@ package route53
 import (
 	"regexp"
 
-	"github.com/aws/aws-sdk-go/aws/client"
-	"github.com/aws/aws-sdk-go/aws/request"
-	"github.com/aws/aws-sdk-go/private/protocol/restxml"
+	"github.com/catenoid-company/aws-sdk-go/aws/client"
+	"github.com/catenoid-company/aws-sdk-go/aws/request"
+	"github.com/catenoid-company/aws-sdk-go/private/protocol/restxml"
 )
 
 func init() {

@@ -6,7 +6,7 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/aws/aws-sdk-go/service/dynamodb"
+	"github.com/catenoid-company/aws-sdk-go/service/dynamodb"
 )
 
 // A Marshaler is an interface to provide custom marshalling of Go value types

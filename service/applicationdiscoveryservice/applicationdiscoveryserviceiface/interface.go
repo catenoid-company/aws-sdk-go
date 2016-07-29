@@ -4,8 +4,8 @@
 package applicationdiscoveryserviceiface
 
 import (
-	"github.com/aws/aws-sdk-go/aws/request"
-	"github.com/aws/aws-sdk-go/service/applicationdiscoveryservice"
+	"github.com/catenoid-company/aws-sdk-go/aws/request"
+	"github.com/catenoid-company/aws-sdk-go/service/applicationdiscoveryservice"
 )
 
 // ApplicationDiscoveryServiceAPI is the interface type for applicationdiscoveryservice.ApplicationDiscoveryService.

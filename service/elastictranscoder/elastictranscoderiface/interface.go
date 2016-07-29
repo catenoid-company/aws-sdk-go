@@ -4,8 +4,8 @@
 package elastictranscoderiface
 
 import (
-	"github.com/aws/aws-sdk-go/aws/request"
-	"github.com/aws/aws-sdk-go/service/elastictranscoder"
+	"github.com/catenoid-company/aws-sdk-go/aws/request"
+	"github.com/catenoid-company/aws-sdk-go/service/elastictranscoder"
 )
 
 // ElasticTranscoderAPI is the interface type for elastictranscoder.ElasticTranscoder.

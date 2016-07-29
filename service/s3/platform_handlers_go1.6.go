@@ -3,8 +3,8 @@
 package s3
 
 import (
-	"github.com/aws/aws-sdk-go/aws"
-	"github.com/aws/aws-sdk-go/aws/request"
+	"github.com/catenoid-company/aws-sdk-go/aws"
+	"github.com/catenoid-company/aws-sdk-go/aws/request"
 )
 
 func platformRequestHandlers(r *request.Request) {

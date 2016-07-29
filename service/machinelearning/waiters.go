@@ -3,7 +3,7 @@
 package machinelearning
 
 import (
-	"github.com/aws/aws-sdk-go/private/waiter"
+	"github.com/catenoid-company/aws-sdk-go/private/waiter"
 )
 
 func (c *MachineLearning) WaitUntilBatchPredictionAvailable(input *DescribeBatchPredictionsInput) error {

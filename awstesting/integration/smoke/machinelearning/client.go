@@ -4,8 +4,8 @@
 package machinelearning
 
 import (
-	"github.com/aws/aws-sdk-go/awstesting/integration/smoke"
-	"github.com/aws/aws-sdk-go/service/machinelearning"
+	"github.com/catenoid-company/aws-sdk-go/awstesting/integration/smoke"
+	"github.com/catenoid-company/aws-sdk-go/service/machinelearning"
 	. "github.com/lsegal/gucumber"
 )
 

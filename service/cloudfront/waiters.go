@@ -3,7 +3,7 @@
 package cloudfront
 
 import (
-	"github.com/aws/aws-sdk-go/private/waiter"
+	"github.com/catenoid-company/aws-sdk-go/private/waiter"
 )
 
 func (c *CloudFront) WaitUntilDistributionDeployed(input *GetDistributionInput) error {

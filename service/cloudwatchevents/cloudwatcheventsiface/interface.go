@@ -4,8 +4,8 @@
 package cloudwatcheventsiface
 
 import (
-	"github.com/aws/aws-sdk-go/aws/request"
-	"github.com/aws/aws-sdk-go/service/cloudwatchevents"
+	"github.com/catenoid-company/aws-sdk-go/aws/request"
+	"github.com/catenoid-company/aws-sdk-go/service/cloudwatchevents"
 )
 
 // CloudWatchEventsAPI is the interface type for cloudwatchevents.CloudWatchEvents.

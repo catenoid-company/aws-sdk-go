@@ -4,8 +4,8 @@
 package servicecatalogiface
 
 import (
-	"github.com/aws/aws-sdk-go/aws/request"
-	"github.com/aws/aws-sdk-go/service/servicecatalog"
+	"github.com/catenoid-company/aws-sdk-go/aws/request"
+	"github.com/catenoid-company/aws-sdk-go/service/servicecatalog"
 )
 
 // ServiceCatalogAPI is the interface type for servicecatalog.ServiceCatalog.

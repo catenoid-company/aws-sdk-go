@@ -4,8 +4,8 @@
 package cloudsearch
 
 import (
-	"github.com/aws/aws-sdk-go/awstesting/integration/smoke"
-	"github.com/aws/aws-sdk-go/service/cloudsearch"
+	"github.com/catenoid-company/aws-sdk-go/awstesting/integration/smoke"
+	"github.com/catenoid-company/aws-sdk-go/service/cloudsearch"
 	. "github.com/lsegal/gucumber"
 )
 

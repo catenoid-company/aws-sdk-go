@@ -4,8 +4,8 @@
 package ecsiface
 
 import (
-	"github.com/aws/aws-sdk-go/aws/request"
-	"github.com/aws/aws-sdk-go/service/ecs"
+	"github.com/catenoid-company/aws-sdk-go/aws/request"
+	"github.com/catenoid-company/aws-sdk-go/service/ecs"
 )
 
 // ECSAPI is the interface type for ecs.ECS.

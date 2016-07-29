@@ -4,8 +4,8 @@
 package apigatewayiface
 
 import (
-	"github.com/aws/aws-sdk-go/aws/request"
-	"github.com/aws/aws-sdk-go/service/apigateway"
+	"github.com/catenoid-company/aws-sdk-go/aws/request"
+	"github.com/catenoid-company/aws-sdk-go/service/apigateway"
 )
 
 // APIGatewayAPI is the interface type for apigateway.APIGateway.

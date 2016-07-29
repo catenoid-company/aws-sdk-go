@@ -5,9 +5,9 @@ import (
 	"io/ioutil"
 	"net/http/httputil"
 
-	"github.com/aws/aws-sdk-go/aws"
-	"github.com/aws/aws-sdk-go/aws/client/metadata"
-	"github.com/aws/aws-sdk-go/aws/request"
+	"github.com/catenoid-company/aws-sdk-go/aws"
+	"github.com/catenoid-company/aws-sdk-go/aws/client/metadata"
+	"github.com/catenoid-company/aws-sdk-go/aws/request"
 )
 
 // A Config provides configuration to a service client instance.

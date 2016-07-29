@@ -7,12 +7,12 @@ import (
 	"encoding/json"
 	"testing"
 
-	"github.com/aws/aws-sdk-go/aws"
-	"github.com/aws/aws-sdk-go/aws/request"
-	"github.com/aws/aws-sdk-go/awstesting"
-	"github.com/aws/aws-sdk-go/private/protocol/rest"
-	"github.com/aws/aws-sdk-go/private/protocol/restjson"
-	"github.com/aws/aws-sdk-go/service/elastictranscoder"
+	"github.com/catenoid-company/aws-sdk-go/aws"
+	"github.com/catenoid-company/aws-sdk-go/aws/request"
+	"github.com/catenoid-company/aws-sdk-go/awstesting"
+	"github.com/catenoid-company/aws-sdk-go/private/protocol/rest"
+	"github.com/catenoid-company/aws-sdk-go/private/protocol/restjson"
+	"github.com/catenoid-company/aws-sdk-go/service/elastictranscoder"
 )
 
 func BenchmarkRESTJSONBuild_Complex_elastictranscoderCreateJobInput(b *testing.B) {

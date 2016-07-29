@@ -7,7 +7,7 @@ import (
 	"io/ioutil"
 	"testing"
 
-	"github.com/aws/aws-sdk-go/aws/awsutil"
+	"github.com/catenoid-company/aws-sdk-go/aws/awsutil"
 	"github.com/stretchr/testify/assert"
 )
 

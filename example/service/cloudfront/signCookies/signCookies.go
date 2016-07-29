@@ -7,7 +7,7 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/aws/aws-sdk-go/service/cloudfront/sign"
+	"github.com/catenoid-company/aws-sdk-go/service/cloudfront/sign"
 )
 
 // Makes a request for object using CloudFront cookie signing, and outputs
